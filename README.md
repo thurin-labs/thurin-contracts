@@ -1,4 +1,4 @@
-# @thurinlabs/contracts
+# @thurinlabs/thurin-contracts
 
 Solidity library for Thurin SBT verification.
 
@@ -13,13 +13,13 @@ forge install thurinlabs/contracts
 ### npm
 
 ```bash
-npm install @thurinlabs/contracts
+npm install @thurinlabs/thurin-contracts
 ```
 
 ## Usage
 
 ```solidity
-import { IThurinSBT, THURIN_SBT } from "@thurinlabs/contracts/src/interfaces/IThurinSBT.sol";
+import { IThurinSBT, THURIN_SBT } from "@thurinlabs/thurin-contracts/src/interfaces/IThurinSBT.sol";
 
 contract MyDapp {
     function doThing() external {

@@ -1,5 +1,5 @@
 {
-  "name": "@thurinlabs/contracts",
+  "name": "@thurinlabs/thurin-contracts",
   "version": "0.1.0",
   "description": "Solidity interfaces for Thurin SBT verification",
   "license": "Apache-2.0",
@@ -8,6 +8,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/thurinlabs/contracts"
+    "url": "https://github.com/thurinlabs/thurin-contracts"
   }
 }
